@@ -103,6 +103,7 @@ else:
 User needs to enter a single letter.
 Then determine if that letter is a vowel or a consonant.
 
+### Solution:
 ```python
 char = input("Enter a letter: ").lower()
 vowels = ["a", "e", "i", "o", "u"]
