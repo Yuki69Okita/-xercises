@@ -22,3 +22,12 @@ Thanks a lot to "ProgrammingHero1" and other people.
 5. &nbsp; [Taxes](https://github.com/Yuki69Okita/Exercises/tree/main/2.%20If%20statements#ex-5---taxes) <br />
 
 -----------------
+## Loops:
+1. &nbsp; [Sum of elements](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-1---sum-of-elements) <br />
+2. &nbsp; [Largest element](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-2---largest-element) <br />
+3. &nbsp; [Sum of squares](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-3---sum-of-squares) <br />
+4. &nbsp; [Second largest element](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-4---second-largest-element) <br />
+5. &nbsp; [Second smallest element](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-5---second-smallest-element) <br />
+6. &nbsp; [Remove duplicate characters](https://github.com/Yuki69Okita/Exercises/tree/main/3.%20Loops#ex-6---remove-duplicate-characters) <br />
+
+-----------------
